@@ -1,0 +1,8 @@
+﻿name: astrbot_plugin_guard
+display_name: 插件门卫
+short_desc: 给插件留快照，崩了能一键退回上一份
+desc: 只做事后补救——拍快照、列快照、回滚。不预检、不拦人，因为安装动作在内核手里，第三方插件没有装前钩子。
+version: 0.1.0
+author: AstrBot
+astrbot_version: ">=4.29"
+repo: https://github.com/ylmaochaoyang-cloud/astrbot_plugin_guard.git
